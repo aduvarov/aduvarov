@@ -17,9 +17,10 @@ Here are some ideas to get you started:
 # Меня зовут Анатолий Уваров
 ## я изучаю:
 
-[ 🔭 ECMAScript ]     
-[ 💬 javascript ]     
-[ 🌱 TypeScript ]     
-[ 👯 Node.js ]    
-[ 📫 Mongo.DB ]     
-[ 😄 React ]
+![ecmascript](https://github.com/aduvarov/aduvarov/blob/main/ecma-logo.png?raw=true)
+![javascript](https://github.com/aduvarov/aduvarov/blob/main/javascript-logo.png?raw=true)
+![typescript-logo](https://github.com/aduvarov/aduvarov/blob/main/typescript-logo.png?raw=true)
+![nodejs](https://github.com/aduvarov/aduvarov/blob/main/nodejs-logo.png?raw=true)
+![mongodb](https://github.com/aduvarov/aduvarov/blob/main/mongodb-logo.png?raw=true)
+![react](https://github.com/aduvarov/aduvarov/blob/main/reactmini.png?raw=true)
+![reactnative](https://github.com/aduvarov/aduvarov/blob/main/react-native-logo.png?raw=true)
